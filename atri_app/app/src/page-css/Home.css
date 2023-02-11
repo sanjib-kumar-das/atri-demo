@@ -1,0 +1,8 @@
+.p-Home.Flex1 {
+display: flex;
+align-items: stretch;
+justify-content: center;
+}
+.p-Home.TextBox1 {
+text-align: center;
+}
